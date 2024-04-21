@@ -21,7 +21,7 @@ Buku Elektronik (eBook) ini merupakan buku yang membahas tentang pengenalan GIT 
 14. Kolaborasi pada Project
 
 ## Penulis
-Buku ini ditulis oleh **[Andika Tulus Pangestu]()** selama masa libur kuliah semester 5 di Tahun 2024.
+Buku ini ditulis oleh **[Andika Tulus Pangestu](https://andikatulus.netlify.app)** selama masa libur kuliah semester 5 di Tahun 2024.
 
 ## Catatan
 Buku ini adalah buku elektronik pertama yang saya buat. Jika ada kesalahan dalam penulisan atau ada yang ingin ditanyakan, silahkan hubungi saya melalui [Instagram](https://www.instagram.com/andikatuluspgstu/) atau [Email](mailto:andikatuluspgstu@gmail.com).
