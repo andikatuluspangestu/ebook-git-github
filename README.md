@@ -30,5 +30,5 @@ Buku ini adalah buku elektronik pertama yang saya buat. Jika ada kesalahan dalam
 Buku ini digunakan untuk kepentingan pendidikan dan non-komersial. Buku ini dilindungi oleh hak cipta. Anda tidak diperbolehkan untuk mengubah, menyalin, dan menambahkan isi buku tanpa izin dari penulis. 
 
 ## Terima Kasih
-Terima kasih kepada semua pihak yang telah membantu dalam pembuatan buku ini, terutama kepada keluarga, teman-teman, dan dosen yang telah memberikan dukungan dan motivasi. Semoga buku ini bermanfaat bagi pembaca dan dapat membantu dalam memahami dasar-dasar GIT dan GitHub.
+Terima kasih kepada semua pihak yang telah membantu dalam pembuatan buku ini, terutama kepada keluarga, teman-teman, dan dosen yang telah memberikan dukungan dan motivasi. Tidak lupa kepada Cholivia Ramadhani yang telah membantu mengisi konten buku ini. Semoga buku ini bermanfaat bagi pembaca dan dapat membantu dalam memahami dasar-dasar GIT dan GitHub.
 
