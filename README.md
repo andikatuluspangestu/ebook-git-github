@@ -1,5 +1,7 @@
 # Pengantar GIT & GitHub Dasar untuk Pemula 
 
+![Cover Buku](https://github.com/andikatuluspangestu/ebook-git-github/blob/main/Mockups/mockup.jpg?raw=true)
+
 Buku Elektronik (eBook) ini merupakan buku yang membahas tentang pengenalan GIT dan GitHub dasar untuk pemula. Buku ini dibuat untuk memudahkan pembaca dalam memahami dasar-dasar GIT dan GitHub. Buku ini juga dilengkapi dengan contoh-contoh kasus yang sering dijumpai dalam penggunaan GIT dan GitHub.
 
 ## Daftar Isi
